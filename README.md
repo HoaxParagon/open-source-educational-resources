@@ -1,9 +1,10 @@
+**Education is the only thing that will fix the world**  
+
 # open-source-educational-resources
 this is a repo all about open source educational resources, as the title suggests. In school I found it difficult to learn from immovable paper and with today's technology, there's little reason to do that any more. Books aren't cheap and a classroom's books could buy a computer and a projector to show animations of mathematics with.
 
-
 #### THE GOAL
-Make a free, professional resource for educators to download, share and show to classrooms to aid instruction of common topics.  
+Make a free, professional resource for educators to download, share and show to classrooms to aid instruction of common topics.
 
 #### WHY?
 Because video hosting sites are bandwidth intenstive for schools and may not always be available. This archive can be downloaded once per school, updated as required and shared via USB drives amongst a school's educators. In areas where network connection is not available OR is not apt enough to facilitate education, this archive could be seen as a lifesaver by allowing someone to download it where there is a good connection and allowing for further offline sharing.  
@@ -11,7 +12,7 @@ Because video hosting sites are bandwidth intenstive for schools and may not alw
 #### DISCORD LINK
 [Come discuss on Discord!](https://discord.gg/YyNjzCszZt)
 
-What's needed:  
+#### What's needed:  
   Some kind of icon or logo  
   animators  
   teachers  
