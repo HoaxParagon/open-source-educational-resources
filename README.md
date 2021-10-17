@@ -12,6 +12,7 @@ Because video hosting sites are bandwidth intenstive for schools and may not alw
 [Come discuss on Discord!](https://discord.gg/YyNjzCszZt)
 
 What's needed:  
+  Some kind of icon or logo  
   animators  
   teachers  
   quiz/test/paper resource makers  
