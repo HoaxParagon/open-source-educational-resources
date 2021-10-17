@@ -8,6 +8,9 @@ Make a free, professional resource for educators to download, share and show to 
 #### WHY?
 Because video hosting sites are bandwidth intenstive for schools and may not always be available. This archive can be downloaded once per school, updated as required and shared via USB drives amongst a school's educators. In areas where network connection is not available OR is not apt enough to facilitate education, this archive could be seen as a lifesaver by allowing someone to download it where there is a good connection and allowing for further offline sharing.  
 
+#### DISCORD LINK
+![Come discuss on Discord!](https://discord.gg/YyNjzCszZt)
+
 What's needed:  
   animators  
   teachers  
