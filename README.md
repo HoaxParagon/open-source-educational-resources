@@ -25,10 +25,12 @@ What's needed:
     etc.  
     
 I believe that this project can have far reaching impacts and as such it's unpaid; the best things in life are free.  
-If you have something you'd like to put into this archive, let me know. Right now, it's probably best to make an issue or a pull request with the file.  
+If you have something you'd like to put into this archive, let me know. Right now, it's probably best to make an issue
+  or a pull request with the file.  
 I'm looking for similarity and uniformity in the file naming and file type schema. A known good installer for VLC media player will be  
 included by default, or, barring their unwillingness or some licencing requirements, some other video platform will be used.  
 The plan is to start with animations based in all fields of study from gradeschool onward into college level study.  
-There will be NO POLITICS allowed. If you try to upload something involving CRT or any other such racially motivated nonsense you will be publically shamed and banned from further uploads pending review.  
+There will be NO POLITICS allowed. If you try to upload something involving CRT or any other such racially motivated nonsense
+  you will be publically shamed and banned from further uploads pending review.  
 
 I will be curating this archive in my spare time and attempting to get people on board first and foremost. I am not an educator and my animation skills are limited to what I can do in Fusion 360. I will further network with predominate educational Youtubers first in an effort to provide files that I or others think will be most beneficial to students.  
